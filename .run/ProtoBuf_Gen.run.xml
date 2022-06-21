@@ -7,7 +7,7 @@
     <option name="emulateTerminal" value="false" />
     <option name="backtrace" value="SHORT" />
     <envs>
-      <env name="flowy_tool" value="${CARGO_MAKE_WORKSPACE_WORKING_DIRECTORY}/scripts/flowy-tool/Cargo.toml" />
+      <env name="E_WORKING_DIRECTORY}/scripts/flowy-tool/Cargo.toml" />
       <env name="rust_lib" value="${CARGO_MAKE_WORKSPACE_WORKING_DIRECTORY}/rust-lib/" />
       <env name="shared_lib" value="${CARGO_MAKE_WORKSPACE_WORKING_DIRECTORY}/../shared_lib" />
       <env name="flutter_lib" value="${CARGO_MAKE_WORKSPACE_WORKING_DIRECTORY}/app_flowy/packages" />
